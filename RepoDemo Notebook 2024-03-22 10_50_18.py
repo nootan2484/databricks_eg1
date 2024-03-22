@@ -6,4 +6,8 @@ print(a+b)
 
 # COMMAND ----------
 
+print("hello world")
+
+# COMMAND ----------
+
 
